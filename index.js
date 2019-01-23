@@ -19,7 +19,7 @@ function logWhisper(string) {
    var uppercase = string.toUppercase();
    var lowercase = string.toLowerCase();
     
-  if ( lowercase === string) {
+  if ( string === string.toLowerCase()) {
     return " I can\'t hear you!" ;
     
   }
