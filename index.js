@@ -24,7 +24,7 @@ function logWhisper(string) {
     
   }
  
-   else if ( ) {
+   else if (string === string.toUpperCase()) {
       return  " YES INDEED!" ;
    }
   
